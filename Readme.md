@@ -1,1 +1,1 @@
-A simple article posting bot, based on selenium.
+A simple twitter article tracking and posting bot, based on selenium.
